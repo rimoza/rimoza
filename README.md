@@ -23,7 +23,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 <!--
 **rimoza/rimoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
