@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="[your-facebook-URL](https://www.facebook.com/ridwaan1122)">
-    <img src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>  
 </div>
 </div>
