@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Front end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Somalia.
+I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Somalia.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
