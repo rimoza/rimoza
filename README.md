@@ -30,7 +30,7 @@ I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rimoza-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ridwan-mohamed-363477161/))
+- :mailbox:How to reach me: [![Website Badge](https://rimoza.me/)
 
 ---
 
